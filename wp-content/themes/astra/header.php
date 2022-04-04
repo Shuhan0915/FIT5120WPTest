@@ -57,7 +57,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 	astra_header_after();
 
-
+	astra_content_before();
 	?>
 	<div id="content" class="site-content">
 		<div class="ast-container">
